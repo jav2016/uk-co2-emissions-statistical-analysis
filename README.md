@@ -1,6 +1,5 @@
 ## Applied Statistics (CMP7205) – R Code
-
-Author: Javeria Butt  
+Student ID : 25170996
 Programme: MSc Big Data Analytics  
 Module: CMP7205 Applied Statistics  
 
