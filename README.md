@@ -8,8 +8,6 @@ The analysis uses annual UK data from 1990 onwards and focuses on understanding 
 relationships in the data using applied statistical methods. The aim is to see whether lower
 emissions are more closely linked to changes in the energy mix, changes in energy use, or both.
 
-This project is presented as a data analysis portfolio and is not a coursework submission.
-
 ---
 
 ## Data Used
