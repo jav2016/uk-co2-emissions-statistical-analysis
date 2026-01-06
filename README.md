@@ -19,6 +19,7 @@ The project uses publicly available UK data from **Our World in Data**, includin
 - Energy use per capita
 
 All datasets are filtered for the United Kingdom and aligned by year.
+Data are retrieved programmatically within the R script from publicly available sources.
 
 ---
 
@@ -57,12 +58,11 @@ data limitations.
 ```
 .
 ├── code/
-│   └── analysis.R
-├── data/
-│   └── data files or download instructions
+│   └── applied_statistics_analysis.r
 ├── outputs/
 │   ├── figures/
 │   └── tables/
 └── README.md
+
 ```
 
